@@ -1,5 +1,10 @@
 package me.chapter1.strategy;
 
+/**
+ * 
+ * @author dnsza
+ *
+ */
 public abstract class Duck {
 
 
