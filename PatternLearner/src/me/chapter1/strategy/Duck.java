@@ -2,6 +2,8 @@ package me.chapter1.strategy;
 
 /**
  * 
+ * Основной класс - предок
+ * 
  * @author dnsza
  *
  */
